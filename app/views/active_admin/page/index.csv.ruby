@@ -1,0 +1,1 @@
+::ActiveAdminCsvWithBom.build(collection)
